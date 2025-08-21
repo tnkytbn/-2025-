@@ -1,0 +1,7 @@
+HPrank=1
+ATKrank=1
+DEFrank=1
+FPS=30
+Stage=1
+NoHitMode=0
+RevereseMode=0
